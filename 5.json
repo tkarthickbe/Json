@@ -1,11 +1,5 @@
 {"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"ASM001-MES1406-868", "Data":[
- {"Machine":"MAC-001","Location":"23","Slot":"11","ItemCode":"DXC001-1406","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":50,"DateResponse":"2019-05-20T11:16:53"}
- ,
- {"Machine":"MAC-002","Location":"23","Slot":"12","ItemCode":"DXC001-1407","SKID":200,"TotalQty":340,"UsageQty":400,"BalanceQty":77,"DateResponse":"2019-05-20T11:16:53"}
- ,
- {"Machine":"MAC-003","Location":"23","Slot":"13","ItemCode":"DXC001-1408","SKID":200,"TotalQty":340,"UsageQty":400,"BalanceQty":67,"DateResponse":"2019-05-20T11:16:53"}
- , 
- {"Machine":"MAC-004","Location":"23","Slot":"14","ItemCode":"DXC001-1409","SKID":200,"TotalQty":340,"UsageQty":400,"BalanceQty":37,"DateResponse":"2019-05-20T11:16:53"}
+ {"Machine":"MAC-010","Location":"23","Slot":"20","ItemCode":"DXC001-1415","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
  ]}}
  
  
