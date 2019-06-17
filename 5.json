@@ -1,11 +1,5 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"MES001-QAS1706-868", "Data":[
-{"Machine":"MEWS1706-005","Location":"40","Slot":"45","ItemCode":"MES1706-ASM005","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
-,
-{"Machine":"MEWS1706-006","Location":"40","Slot":"46","ItemCode":"MES1706-ASM006","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":20,"DateResponse":"2019-05-20T11:16:53"}
-,
-{"Machine":"MEWS1706-007","Location":"40","Slot":"47","ItemCode":"MES1706-ASM007","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":30,"DateResponse":"2019-05-20T11:16:53"}
-,
-{"Machine":"MEWS1706-008","Location":"40","Slot":"48","ItemCode":"MES1706-ASM008","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"QTAZ001-BOE1706-868", "Data":[
+{"Machine":"ITES1706-001","Location":"50","Slot":"50","ItemCode":"PICQ001-1706","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
  ]}}
  
  
