@@ -5,9 +5,9 @@
 		"Slot": "33",
 		"ItemCode": "HUW-10100171",
 		"SKID": "8919",
-		"TotalQty": "20000",
+		"TotalQty": "17500",
 		"UsageQty": "17500",
-		"BalanceQty": "2500",
+		"BalanceQty": "0",
 		"DateResponse": "6/13/19 13:50"
 	},
 	{
@@ -16,9 +16,9 @@
 		"Slot": "34",
 		"ItemCode": "HUW-10100640",
 		"SKID": "8936",
-		"TotalQty": "50000",
+		"TotalQty": "47500",
 		"UsageQty": "47500",
-		"BalanceQty": "2500",
+		"BalanceQty": "0",
 		"DateResponse": "6/13/19 13:50"
 	},
 	{
@@ -29,7 +29,7 @@
 		"SKID": "8996",
 		"TotalQty": "50000",
 		"UsageQty": "47500",
-		"BalanceQty": "2500",
+		"BalanceQty": "0",
 		"DateResponse": "6/13/19 13:50"
 	}
 ]}}
