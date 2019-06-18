@@ -1,5 +1,9 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"QTAZ001-BOE1706-868", "Data":[
-{"Machine":"ITES1706-001","Location":"50","Slot":"50","ItemCode":"PICQ001-1706","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"LDE001-ITMS1806-868", "Data":[
+{"Machine":"MACX1706-001","Location":"50","Slot":"50","ItemCode":"ITEM001-1806","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+,
+{"Machine":"MACX1706-002","Location":"50","Slot":"51","ItemCode":"ITEM002-1806","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+,
+{"Machine":"MACX1706-003","Location":"50","Slot":"52","ItemCode":"ITEM003-1806","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
  ]}}
  
  
