@@ -1,9 +1,9 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"LDE001-ITMS1806-868", "Data":[
-{"Machine":"MACX1706-001","Location":"50","Slot":"50","ItemCode":"ITEM001-1806","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"PWD001-0620-868", "Data":[
+{"Machine":"PWD868-001","Location":"40","Slot":"40","ItemCode":"PWD0620-001","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"MACX1706-002","Location":"50","Slot":"51","ItemCode":"ITEM002-1806","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"PWD868-001","Location":"40","Slot":"41","ItemCode":"PWD0620-002","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":20,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"MACX1706-003","Location":"50","Slot":"52","ItemCode":"ITEM003-1806","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"PWD868-003","Location":"40","Slot":"42","ItemCode":"PWD0620-003","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":30,"DateResponse":"2019-05-20T11:16:53"}
  ]}}
  
  
