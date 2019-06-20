@@ -1,9 +1,7 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"PWD001-0620-868", "Data":[
-{"Machine":"PWD868-001","Location":"40","Slot":"40","ItemCode":"PWD0620-001","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"TSTQ0620-001-868", "Data":[
+{"Machine":"TSTQ001-1","Location":"30","Slot":"30","ItemCode":"TSTQ0620-001","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"PWD868-001","Location":"40","Slot":"41","ItemCode":"PWD0620-002","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":20,"DateResponse":"2019-05-20T11:16:53"}
-,
-{"Machine":"PWD868-003","Location":"40","Slot":"42","ItemCode":"PWD0620-003","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":30,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"TSTQ001-2","Location":"30","Slot":"31","ItemCode":"TSTQ0620-002","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":20,"DateResponse":"2019-05-20T11:16:53"}
  ]}}
  
  
