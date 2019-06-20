@@ -11,7 +11,7 @@
 ,
 {"Machine":"MACQ2206-006","Location":"34","Slot":"18","ItemCode":"PRT2206-006","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"MACQ2206-007","Location":"34","Slot":"19","ItemCode":"PRT2206-007","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}\
+{"Machine":"MACQ2206-007","Location":"34","Slot":"19","ItemCode":"PRT2206-007","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
 {"Machine":"MACQ2206-008","Location":"34","Slot":"20","ItemCode":"PRT2206-008","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":20,"DateResponse":"2019-05-20T11:16:53"}
  ]}}
