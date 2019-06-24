@@ -1,20 +1,22 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"APLE0620-001-868", "Data":[
-{"Machine":"MACQ2206-011","Location":"34","Slot":"23","ItemCode":"PRT2206-011","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"UVAT2406-001-868", "Data":[
+{"Machine":"VATR001-24001","Location":"98","Slot":"12","ItemCode":"YEWS2406-11","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"MACQ2206-012","Location":"34","Slot":"24","ItemCode":"PRT2206-012","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":20,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"VATR001-24002","Location":"98","Slot":"13","ItemCode":"YEWS2406-12","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":20,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"MACQ2206-013","Location":"34","Slot":"25","ItemCode":"PRT2206-013","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"VATR001-24003","Location":"98","Slot":"14","ItemCode":"YEWS2406-13","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"MACQ2206-014","Location":"34","Slot":"26","ItemCode":"PRT2206-014","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"VATR001-24004","Location":"98","Slot":"15","ItemCode":"YEWS2406-14","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"MACQ2206-015","Location":"34","Slot":"27","ItemCode":"PRT2206-015","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"VATR001-24005","Location":"98","Slot":"16","ItemCode":"YEWS2406-15","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"MACQ2206-016","Location":"34","Slot":"28","ItemCode":"PRT2206-016","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"VATR001-24006","Location":"98","Slot":"17","ItemCode":"YEWS2406-16","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"MACQ2206-017","Location":"34","Slot":"29","ItemCode":"PRT2206-017","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"VATR001-24007","Location":"98","Slot":"18","ItemCode":"YEWS2406-17,"SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"MACQ2206-018","Location":"34","Slot":"30","ItemCode":"PRT2206-018","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":20,"DateResponse":"2019-05-20T11:16:53"}
- ]}}
+{"Machine":"VATR001-240018,"Location":"98","Slot":"19","ItemCode":"YEWS2406-18","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":20,"DateResponse":"2019-05-20T11:16:53"}
+,
+{"Machine":"VATR001-240018,"Location":"98","Slot":"20","ItemCode":"YEWS2406-19","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":20,"DateResponse":"2019-05-20T11:16:53"}
+]}}
  
  
 
