@@ -198,5 +198,5 @@
  ,
  {"Machine":"X4is-ML17C1","Location":"1","Slot":"99","ItemCode":"HUWBLK-10100256-2562019099","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":2000,"DateResponse":"2019-05-20T11:16:53"}
  ,
- {"Machine":"X4is-ML17C1","Location":"2","Slot":"02","ItemCode":"HUWBLK-10100256-25620190100","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":2000,"DateResponse":"2019-05-20T11:16:53"}
+ {"Machine":"X4is-ML17C1","Location":"2","Slot":"02","ItemCode":"HUWBLK-10100256-2562019100","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":2000,"DateResponse":"2019-05-20T11:16:53"}
  ]}}
