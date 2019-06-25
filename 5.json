@@ -1,21 +1,9 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"UVAT2406-001-868", "Data":[
-{"Machine":"VATR001-24001","Location":"98","Slot":"12","ItemCode":"YEWS2406-11","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"DCSR2506-001-868", "Data":[
+{"Machine":"PLDC2506-001","Location":"43","Slot":"32","ItemCode":"DSPC25060-001","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"VATR001-24002","Location":"98","Slot":"13","ItemCode":"YEWS2406-12","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"PLDC2506-002","Location":"43","Slot":"33","ItemCode":"DSPC25060-002","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
-{"Machine":"VATR001-24003","Location":"98","Slot":"14","ItemCode":"YEWS2406-13","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
-,
-{"Machine":"VATR001-24004","Location":"98","Slot":"15","ItemCode":"YEWS2406-14","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
-,
-{"Machine":"VATR001-24005","Location":"98","Slot":"16","ItemCode":"YEWS2406-15","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
-,
-{"Machine":"VATR001-24006","Location":"98","Slot":"17","ItemCode":"YEWS2406-16","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
-,
-{"Machine":"VATR001-24007","Location":"98","Slot":"18","ItemCode":"YEWS2406-17","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
-,
-{"Machine":"VATR001-24008","Location":"98","Slot":"19","ItemCode":"YEWS2406-18","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
-,
-{"Machine":"VATR001-24009","Location":"98","Slot":"20","ItemCode":"YEWS2406-19","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"PLDC2506-003","Location":"43","Slot":"34","ItemCode":"DSPC25060-003","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ]}}
  
  
