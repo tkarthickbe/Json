@@ -1,7 +1,6 @@
-{"InventorySnapShot":{"ProductionLine":"Line18","ProgramName":"HUW-03025SGR-QA-CC-009", "Data":[
- {"Machine":"X4is-ML17C1","Location":"01","Slot":"33","ItemCode":"HUW-10100256-13062019003","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":100,"DateResponse":"2019-05-20T11:16:53"},
- {"Machine":"X4is-ML17C1","Location":"01","Slot":"34","ItemCode":"HUW-10100256-13062019004","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":100,"DateResponse":"2019-05-20T11:16:53"},
- {"Machine":"X4is-ML17C1","Location":"01","Slot":"35","ItemCode":"HUW-10100256-13062019005","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":100,"DateResponse":"2019-05-20T11:16:53"},
- {"Machine":"X4is-ML17C1","Location":"01","Slot":"36","ItemCode":"HUW-10100256-13062019006","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":100,"DateResponse":"2019-05-20T11:16:53"}
- 
+{"InventorySnapShot":{"ProductionLine":"Line18","ProgramName":"9XOM92606-001-009", "Data":[
+ {"Machine":"9XOM92606-001","Location":"15","Slot":"12","ItemCode":"9XOM2606-001","SKID":2001,"TotalQty":3000,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+ {"Machine":"9XOM92606-002","Location":"15","Slot":"13","ItemCode":"9XOM2606-002","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+ {"Machine":"9XOM92606-003","Location":"15","Slot":"14","ItemCode":"9XOM2606-003","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+ {"Machine":"9XOM92606-004","Location":"15","Slot":"15","ItemCode":"9XOM2606-004","SKID":2003,"TotalQty":3000,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
  ]}}
