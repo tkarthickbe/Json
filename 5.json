@@ -1,9 +1,13 @@
 {"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"XOMI2606-001-868", "Data":[
-{"Machine":"XOMIC2606-001","Location":"25","Slot":"12","ItemCode":"XOMI2606-001","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"XOMIC2606-001","Location":"25","Slot":"12","ItemCode":"XOMI2606-001","SKID":101,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
 {"Machine":"XOMIC2606-002","Location":"25","Slot":"13","ItemCode":"XOMI2606-002","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ,
 {"Machine":"XOMIC2606-003","Location":"25","Slot":"14","ItemCode":"XOMI2606-003","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+,
+{"Machine":"XOMIC2606-004","Location":"25","Slot":"15","ItemCode":"XOMI2606-004","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+,
+{"Machine":"XOMIC2606-005","Location":"25","Slot":"16","ItemCode":"XOMI2606-005","SKID":105,"TotalQty":320,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ]}}
  
  
