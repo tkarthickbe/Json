@@ -6,9 +6,9 @@
 		"ItemCode": "HUW-07091200",
 		"SKID": "8919",
 		"TotalQty": "10000",
-		"UsageQty": "10000",
-		"BalanceQty": "0",
-		"DateResponse": "6/19/19 10:00"
+		"UsageQty": "8000",
+		"BalanceQty": "2000",
+		"DateResponse": "6/27/19 10:00"
 	},
 	{
 		"Machine": "X4is-ML17C1",
@@ -17,9 +17,9 @@
 		"ItemCode": "HUW-07091254",
 		"SKID": "8936",
 		"TotalQty": "10000",
-		"UsageQty": "10000",
-		"BalanceQty": "0",
-		"DateResponse": "6/19/19 10:00"
+		"UsageQty": "9000",
+		"BalanceQty": "1000",
+		"DateResponse": "6/27/19 10:00"
 	},
 	{
 		"Machine": "X4is-ML17C1",
@@ -28,8 +28,8 @@
 		"ItemCode": "HUW-07091246",
 		"SKID": "8996",
 		"TotalQty": "10000",
-		"UsageQty": "9000",
-		"BalanceQty": "1000",
-		"DateResponse": "6/19/19 10:00"
+		"UsageQty": "6000",
+		"BalanceQty": "4000",
+		"DateResponse": "6/27/19 10:00"
 	}
 ]}}
