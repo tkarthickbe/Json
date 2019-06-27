@@ -12,8 +12,8 @@
 	},
 	{
 		"Machine": "X4is-ML17C1",
-		"Location": "2",
-		"Slot": "33",
+		"Location": "1",
+		"Slot": "34",
 		"ItemCode": "HUW-07091254",
 		"SKID": "8936",
 		"TotalQty": "10000",
@@ -23,8 +23,8 @@
 	},
 	{
 		"Machine": "X4is-ML17C1",
-		"Location": "1",
-		"Slot": "34",
+		"Location": "2",
+		"Slot": "33",
 		"ItemCode": "HUW-07091246",
 		"SKID": "8996",
 		"TotalQty": "10000",
