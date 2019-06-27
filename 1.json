@@ -1,6 +1,3 @@
-{"InventorySnapShot":{"ProductionLine":"Line18","ProgramName":"9XOM92606-001-009", "Data":[
- {"Machine":"9XOM92606-001","Location":"15","Slot":"12","ItemCode":"9XOM2606-001","SKID":2001,"TotalQty":3000,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
- {"Machine":"9XOM92606-002","Location":"15","Slot":"13","ItemCode":"9XOM2606-002","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
- {"Machine":"9XOM92606-003","Location":"15","Slot":"14","ItemCode":"9XOM2606-003","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
- {"Machine":"9XOM92606-004","Location":"15","Slot":"15","ItemCode":"9XOM2606-004","SKID":2003,"TotalQty":3000,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
- ]}}
+{"InventorySnapShot":{"ProductionLine":"Line17","ProgramName":"01loading -009", "Data":[
+ {"Machine":"loadtest92706-012","Location":"15","Slot":"12","ItemCode":"loadingtest001","SKID":2001,"TotalQty":3000,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+]}}
