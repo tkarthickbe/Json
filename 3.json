@@ -1,55 +1,35 @@
-{"InventorySnapShot":{"ProductionLine":"Line17","ProgramName":"HUW-03025SGR-TB-C","Data":[
+{"InventorySnapShot":{"ProductionLine":"Line17","ProgramName":"HUW-03025SGR-TB-F-868","Data":[
 	{
-		"Machine": "X4MM-ML16C1",
+		"Machine": "X4is-ML17C1",
 		"Location": "1",
-		"Slot": "25",
-		"ItemCode": "XTT-BX_P02",
-		"SKID": "8643863",
-		"TotalQty": "10",
-		"UsageQty": "1", 
-		"BalanceQty": "10",
-		"DateResponse": "6/13/19 13:50"
-	},
-	{
-		"Machine": "X4MM-ML16C1",
-		"Location": "1",
-		"Slot": "25",
-		"ItemCode": "XTT-LB_P05",
-		"SKID": "8131973",
-		"TotalQty": "2000",
-		"UsageQty": "2", 
-		"BalanceQty": "10",
-		"DateResponse": "6/13/19 13:50"
+		"Slot": "33",
+		"ItemCode": "HUW-10100081",
+		"SKID": "8919",
+		"TotalQty": "20000",
+		"UsageQty": "17500",
+		"BalanceQty": "2500",
+		"DateResponse": "7/01/19 12:30"
 	},
 	{
-		"Machine": "X4MM-ML16C1",
+		"Machine": "X4is-ML17C1",
 		"Location": "1",
-		"Slot": "25",
-		"ItemCode": "XTT-LB_P13",
-		"SKID": "8298404",
-		"TotalQty": "1000",
-		"UsageQty": "3", 
-		"BalanceQty": "10",
-		"DateResponse": "6/13/19 13:50"
+		"Slot": "34",
+		"ItemCode": "HUW-10100108",
+		"SKID": "8936",
+		"TotalQty": "50000",
+		"UsageQty": "47500",
+		"BalanceQty": "2500",
+		"DateResponse": "7/01/19 12:30"
 	},
-	{	"Machine": "X4MM-ML16C1",
-		"Location": "1",
-		"Slot": "25",
-		"ItemCode": "XTT-00X51221",
-		"SKID": "8474800",
-		"TotalQty": "500",
-		"UsageQty": "4", 
-		"BalanceQty": "10",
-		"DateResponse": "6/13/19 13:50"		
-	},
-	{	"Machine": "X4MM-ML16C1",
-		"Location": "1",
-		"Slot": "29",
-		"ItemCode": "XTT-00X51252",
-		"SKID": "8459458",
-		"TotalQty": "8000",
-		"UsageQty": "5", 
-		"BalanceQty": "10",
-		"DateResponse": "6/13/19 13:50"
+	{
+		"Machine": "X4is-ML17C1",
+		"Location": "2",
+		"Slot": "33",
+		"ItemCode": "HUW-10100109",
+		"SKID": "8996",
+		"TotalQty": "50000",
+		"UsageQty": "42500",
+		"BalanceQty": "7500",
+		"DateResponse": "7/01/19 12:30"
 	}
 ]}}
