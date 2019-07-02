@@ -1,12 +1,12 @@
-{"InventorySnapShot":{"ProductionLine":"Line17","ProgramName":"Loading28062019-001-009", "Data":[
-{"Machine":"MIDFG28062019-001","Location":"14","Slot":"23","ItemCode":"OXMIC2806-009-001","SKID":201,"TotalQty":301,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
-{"Machine":"MIDFG28062019-002","Location":"14","Slot":"24","ItemCode":"OXMIC2806-009-002","SKID":202,"TotalQty":302,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
-{"Machine":"MIDFG28062019-003","Location":"14","Slot":"25","ItemCode":"OXMIC2806-009-003","SKID":203,"TotalQty":303,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
-{"Machine":"MIDFG28062019-004","Location":"14","Slot":"26","ItemCode":"OXMIC2806-009-004","SKID":204,"TotalQty":304,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
-{"Machine":"MIDFG28062019-005","Location":"14","Slot":"27","ItemCode":"OXMIC2806-009-005","SKID":205,"TotalQty":305,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
-{"Machine":"MIDFG28062019-006","Location":"14","Slot":"28","ItemCode":"OXMIC2806-009-006","SKID":206,"TotalQty":306,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
-{"Machine":"MIDFG28062019-007","Location":"14","Slot":"29","ItemCode":"OXMIC2806-009-007","SKID":207,"TotalQty":309,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
-{"Machine":"MIDFG28062019-008","Location":"14","Slot":"30","ItemCode":"OXMIC2806-009-008","SKID":208,"TotalQty":308,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
-{"Machine":"MIDFG28062019-009","Location":"14","Slot":"31","ItemCode":"OXMIC2806-009-009","SKID":209,"TotalQty":309,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
-{"Machine":"MIDFG28062019-010","Location":"14","Slot":"32","ItemCode":"OXMIC2806-009-010","SKID":210,"TotalQty":310,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line17","ProgramName":"XMIQ02207-002-009", "Data":[
+{"Machine":"MAWAQ0701-001","Location":"17","Slot":"01","ItemCode":"XOMI0701-009-010","SKID":201,"TotalQty":301,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+{"Machine":"MAWAQ0701-001","Location":"17","Slot":"02","ItemCode":"XOMI0701-009-009","SKID":202,"TotalQty":302,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+{"Machine":"MAWAQ0701-001","Location":"17","Slot":"03","ItemCode":"XOMI0701-009-008","SKID":203,"TotalQty":303,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+{"Machine":"MAWAQ0701-001","Location":"17","Slot":"04","ItemCode":"XOMI0701-009-007","SKID":204,"TotalQty":304,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+{"Machine":"MAWAQ0701-001","Location":"17","Slot":"05","ItemCode":"XOMI0701-009-006","SKID":205,"TotalQty":305,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+{"Machine":"MAWAQ0701-001","Location":"17","Slot":"06","ItemCode":"XOMI0701-009-005","SKID":206,"TotalQty":306,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+{"Machine":"MAWAQ0701-001","Location":"17","Slot":"07","ItemCode":"XOMI0701-009-004","SKID":207,"TotalQty":309,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+{"Machine":"MAWAQ0701-001","Location":"17","Slot":"08","ItemCode":"XOMI0701-009-003","SKID":208,"TotalQty":308,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+{"Machine":"MAWAQ0701-001","Location":"17","Slot":"09","ItemCode":"XOMI0701-009-002","SKID":209,"TotalQty":309,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"},
+{"Machine":"MAWAQ0701-001","Location":"17","Slot":"10","ItemCode":"XOMI0701-009-001","SKID":210,"TotalQty":310,"UsageQty":2500,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
 ]}}
