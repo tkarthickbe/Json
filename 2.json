@@ -1,4 +1,4 @@
-{"InventorySnapShot":{"ProductionLine":"Line_27","ProgramName":"QA_05062020001-868", "Data":[
- {"Machine":"X4is-ML17C1","Location":"02","Slot":"33","ItemCode":"HUW-10100256-13062019003","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":100,"DateResponse":"2019-05-20T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line18","ProgramName":"QA_010062020002-868", "Data":[
+ {"Machine":"QA_21192019001","Location":"11","Slot":"33","ItemCode":"HUW-07050125","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":100,"DateResponse":"2019-05-20T11:16:53"}
  
  ]}}
